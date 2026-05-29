@@ -22,6 +22,7 @@ Sou apaixonado por tecnologia e filosofia. Atualmente desenvolvo projetos web co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Git" width="60"/>
 </div>
 
 ---
@@ -33,6 +34,7 @@ Sou apaixonado por tecnologia e filosofia. Atualmente desenvolvo projetos web co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Git" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="HTML" width="60" />
 </div>
 
@@ -56,8 +58,6 @@ Sou apaixonado por tecnologia e filosofia. Atualmente desenvolvo projetos web co
 ## ✍️ Em andamento
 
 - Estudando Desenvolvimento Web Java.
-- Estudante do Oracle-ONE para a formação do G9 - Tech Advanced
-
 ---
 
 ## 📫 Como me encontrar
@@ -69,11 +69,11 @@ Sou apaixonado por tecnologia e filosofia. Atualmente desenvolvo projetos web co
 
 ---
 
-<!-- <div>
+<!--- <div>
 <a href="https://github.com/KaueSiqueira54">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSiqueira54&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueSiqueira54&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div> -->
+</div> --->
 
 <p align="center">
   📚 "A verdade é o que é, independentemente de quem a diga." – Santo Tomás de Aquino
