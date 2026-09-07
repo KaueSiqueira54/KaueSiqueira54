@@ -1,14 +1,14 @@
 <h1 align="center">👋 Olá! Eu sou o Kauê</h1>
 
 <p align="center">
-  Futuro Desenvolvedor Full Stack | Estudante de programação | Cursando <strong>Desenvolvimento Web Java</strong>
+  Professor de Tecnologia | Desenvolvedor Full Stack | Estudante de programação
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e filosofia. Atualmente desenvolvo projetos web com foco em HTML, CSS e JavaScript. Também estou cursando **Desenvolvimento Web Java** no Senac Lapa Tito por meio do Instituto Proa. Pretendo cursar futuramente **Análise e Desenvolvimento de Sistemas** para me aprofundar cada vez mais nesse mundo da programação.
+Sou apaixonado por tecnologia e filosofia. Atualmente desenvolvo projetos web com foco em HTML, CSS e JavaScript. Também estou aperfeiçoando meus conhecimentos no desenvolvimento front-end. Pretendo cursar futuramente **Análise e Desenvolvimento de Sistemas** para me aprofundar cada vez mais nesse mundo da programação.
 
 ---
 
@@ -57,7 +57,9 @@ Sou apaixonado por tecnologia e filosofia. Atualmente desenvolvo projetos web co
 
 ## ✍️ Em andamento
 
-- Estudando Desenvolvimento Web Java.
+- Ministrando aulas de Tecnologia (Front-End)
+- Estudando programação
+- Estudando para adentrar na universidade (ADS)
 ---
 
 ## 📫 Como me encontrar
