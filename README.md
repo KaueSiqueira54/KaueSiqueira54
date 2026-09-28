@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e filosofia. Atualmente desenvolvo projetos web com foco em HTML, CSS e JavaScript. Também estou aperfeiçoando meus conhecimentos no desenvolvimento front-end. Pretendo cursar futuramente **Análise e Desenvolvimento de Sistemas** para me aprofundar cada vez mais nesse mundo da programação.
+Sou apaixonado por tecnologia e filosofia. Atualmente ministro aulas de tecnologia e programação, desenvolvendo jovens e adultos para o mercado de trabalho. Desenvolvo também projetos web completos com foco em HTML, CSS, JavaScrip e back-end em Java. Também estou aperfeiçoando meus conhecimentos no desenvolvimento front-end, visando tornar-me um especialista. Pretendo ainda adentrar no ensino superior no próximo semestre para me aprofundar cada vez mais nesse mundo da programação.
 
 ---
 
