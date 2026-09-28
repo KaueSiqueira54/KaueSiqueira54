@@ -42,14 +42,14 @@ Sou apaixonado por tecnologia e filosofia. Atualmente ministro aulas de tecnolog
 
 ## 📈 Meus projetos em destaque
 
-- 💻 [Portfólio Pessoal - Atual](https://kauesiqueira54.github.io/Portfolio/#projetos)  
+- 💻 [Portfólio Pessoal - Atual](https://kauesiqueira54.github.io/Portfolio)  
   Portfólio pessoal feito com HTML, CSS e JavaScript.
   
 - 🖥️ [Portfólio Pessoal 1.0](https://kauesiqueira54.github.io/Portfolio1.0/)  
   Meu primeiro portfólio pessoal, feito com HTML, CSS e JavaScript.
 
-- 🌐 [Nexos da Mente (Portfolio)](https://github.com/KaueSiqueira54/Nexos-da-Mente)  
-  Interface visual do projeto Nexos da Mente, que une análise de obras sci-fi com reflexão filosófica.
+- 🌐 [Sinaliza AI](https://www.sinalizaai.com/)  
+  Tradutor de libras em tempo real, desenvolvido em equipe no Instituto PROA - PROPROFISSÂO/2026
   
 - 🌐 [Conversâe)](https://github.com/KaueSiqueira54/Conversae)  
   Projeto desenvolvido em grupo para a UC-1 de HTMl e CSS no Instituto Proa. Trata-se de uma plataforma que torna o cuidado mental mais acessivel a todas as pessoas.
